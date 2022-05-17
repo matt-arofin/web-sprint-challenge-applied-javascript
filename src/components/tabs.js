@@ -26,8 +26,7 @@ const Tabs = (topics) => {
   // const tabDiv = document.createElement("div");
 }
 
-const source = "http://localhost:5001/api/topics"
-console.log(source);
+
 // console.log(axios.get(source).then(res => {console.log(res)});
 
 const tabsAppender = (selector) => {
